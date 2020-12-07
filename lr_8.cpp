@@ -9,7 +9,7 @@ int main()
 {
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
-	double x, y, z , Frez, FrezB;
+	double x, y, z ,e,f,x, Frez, FrezB;
 	int check , C;
 	check = -1;
 	cout << "enter x:";
