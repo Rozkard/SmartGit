@@ -9,8 +9,7 @@ int main()
 {
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
-	//opisanie
-	double x, y, z ,b,d , Frez, FrezB;
+	double x, y, z , Frez, FrezB;
 	int check , C;
 	check = -1;
 	cout << "enter x:";
